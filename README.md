@@ -1,7 +1,7 @@
 # DinoDrive
 
 <a href="https://code.engineering.queensu.ca/mren303_w2024/section003_group10_dinodrive/-/blob/main/README.md">
-    <img src="/uploads/6b2fd961fc45459479258712153a4bbe/DinoDriveLogoFinal.png" align="right" width="150" alt="Logo">
+    <img src="INPUTIMAGE" align="right" width="150" alt="Logo">
 </a>
 
 </a>
@@ -41,7 +41,7 @@ To use this model, it is recommended to run the following command in your termin
 
 <h3 align="center">Click on the image below to download the Final Report for this project</h3>
 <div align="center">
-    <a href="...">
-        <img src="..." width="50%" alt="PDF Preview">
+    <a href="INPUTLINK">
+        <img src="INPUTIMAGE" width="50%" alt="PDF Preview">
     </a>
 </div>
