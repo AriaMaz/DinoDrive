@@ -14,10 +14,10 @@ Daniel Dubinko
 
 Currently in progress...
 
+<p></p>
 <details>
-
-<summary><h4>Setup</h4></summary>
-To use this model, it is recommended to run the following command in your terminal based on your respective opperating system below to create a virtual environment and download the required package managerss, interpreters, and libraries.
+<summary style="font-weight:bold;">Setup</summary>
+To use this model, run the following command in your terminal based on your operating system below. Creating a virtual environment and downloading the required package managers, interpreters, and libraries is recommended.
 
 
 #### MacOS
