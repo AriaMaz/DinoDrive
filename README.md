@@ -39,7 +39,7 @@ To use this model, it is recommended to run the following command in your termin
 
 <h3 align="center">Click on the image below to download the Report for this project</h3>
 <div align="center">
-    <a href="https://github.com/AriaMaz/DinoDrive/blob/103be8d919bcde65d3db6c7da4088e0a76c2fe18/MREN303FinalReport.pdf" download>
+    <a href="https://raw.githubusercontent.com/AriaMaz/DinoDrive/d2ab13fa74b5031a392671a74e04fc58c0d62a4a/MREN303FinalReport.pdf" download>
         <img src="Images/DinoDriveReport.png" width="50%" alt="PDF Preview">
     </a>
 </div>
