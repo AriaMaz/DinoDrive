@@ -37,7 +37,7 @@ To use this model, it is recommended to run the following command in your termin
 ```
   </details>
 
-<h3 align="center">Click on the image below to download the Conceptual Design Report for this project</h3>
+<h3 align="center">Click on the image below to download the Report for this project</h3>
 <!-- <div align="center">
     <a href="...">
         <img src="..." width="50%" alt="PDF Preview">
