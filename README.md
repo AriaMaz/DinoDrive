@@ -10,6 +10,9 @@
 Aria Maz <br>
 Daniel Dubinko
 <p><p>
+
+Semi-autonomous robotic system developed for a competitive arena of navigation and object manipulation. <br>
+- The robot operates in autonomous line following and manual remote controller modes.
 <!-- <br> -->
 
 <details>
