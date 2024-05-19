@@ -39,7 +39,7 @@ To use this model, it is recommended to run the following command in your termin
 
 <h3 align="center">Click on the image below to download the Report for this project</h3>
 <!-- <div align="center">
-    <a href="...">
+    <a href="MREN303FinalReport.pdf">
         <img src="Images/DinoDriveReport.png" width="50%" alt="PDF Preview">
     </a> -->
 </div>
