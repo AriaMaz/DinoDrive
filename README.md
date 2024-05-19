@@ -1,7 +1,7 @@
 # DinoDrive
 
 <a href="https://code.engineering.queensu.ca/mren303_w2024/section003_group10_dinodrive/-/blob/main/README.md">
-    <img src="/uploads/6b2fd961fc45459479258712153a4bbe/DinoDriveLogoFinal.png" align="right" width="150" alt="Logo">
+    <img src="Images/DinoDriveLogoFinal.png" align="right" width="150" alt="Logo">
 </a>
 
 </a>
