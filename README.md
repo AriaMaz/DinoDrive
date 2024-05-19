@@ -6,7 +6,6 @@
 
 </a>
 
-<h3 align="left">Team Members</h3>
 Aria Maz <br>
 Daniel Dubinko
 <p><p>
