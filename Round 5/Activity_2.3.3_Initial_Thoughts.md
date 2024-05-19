@@ -1,0 +1,5 @@
+The team learnt that the scoop/claw to pick up Ken didn't generate enough torque to even move itself. Whilst the team had done rough back-of-the-envelope calculations for torque calculations the team failed to consider specifics such as the center of the mass of the claw with ken on it and its distance from the motors rotational Axis. The team decided to fix/improve the design by reducing the distance of the COM of the claw from the rotational axis of the servo motor and adding a 1:2 gear ratio since the full range of 180 degrees of motion is not necessary for our design and therefore can be sacrificed for the extra torque. Ideas generated to solve our low torque issue were inspired by the link below.
+
+https://datamyte.com/blog/how-to-increase-motor-torque/#:~:text=By%20ensuring%20all%20moving%20parts,RPM%2C%20linearly%20increasing%20the%20torque.
+
+However, the driving portion of the robot worked flawlessly, being able to complete sharp turns and climb the ramp with great traction and little to no skidding.
